@@ -43,3 +43,6 @@ Join us in our journey to create games that not only entertain but inspire. Let'
 **Thank you for visiting our GitHub page. Dive into our repositories to see the magic behind the screens. Together, let's create worlds where fun meets art.**
 
 *For collaboration, support, or inquiries, please reach out through our official website.*
+
+## Game Releases
+- Turret Defense: [Tower of eternity: the endless battle](https://funpixart.itch.io/towers-of-eternity-the-endless-battle)
